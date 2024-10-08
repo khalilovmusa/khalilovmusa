@@ -54,7 +54,7 @@
 </div>
 <hr/>
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=khalilovmusa&theme=monokai">
-<img align=center src="https://github-readme-stats.vercel.app/api?username=khalilovmusa&show_icons=true&bg_color=00000000">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalilovmusa&show_icons=true&bg_color=00000000">
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
