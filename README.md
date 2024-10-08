@@ -53,6 +53,7 @@
   <br/><br/><br/>
 </div>
 <hr/>
+<img src="https://github-profile-trophy.vercel.app/?username=khalilovmusa&theme=monokai">
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
