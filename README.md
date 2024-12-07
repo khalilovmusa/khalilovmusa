@@ -49,7 +49,11 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/khalilovmusa/khalilovmusa/output/github-contribution-grid-snake.svg" />
-  
+  [![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg?style=social)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
+![Alt text](https://wakatime.com/share/@Z_Salimov/568d6676-ef2c-48c3-8fe1-73d18c964f53.svg)
+![Alt text](https://wakatime.com/share/@Z_Salimov/1b5d351b-f26f-4e40-8cda-3de5f5f2be05.svg)
+![Alt text](https://wakatime.com/share/@Z_Salimov/5bbfb96a-14bf-4bcb-b333-6834a55d82ae.svg)
+![Alt text](https://wakatime.com/share/@Z_Salimov/57b597ab-8152-4a56-a95b-43d8b866f2d8.svg)
   <br/><br/><br/>
 </div>
 <h2 align="center">⚡ Stats ⚡</h2>
