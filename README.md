@@ -28,7 +28,9 @@
   <a href="https://www.linkedin.com/in/musa-khalilov-429057296" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername/)
+    <a href="https://www.instagram.com/musaxlilovv" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@yourusername-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+</a>
 
 <!--   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> sqlite, safari, google-chrome are other good icon options 
