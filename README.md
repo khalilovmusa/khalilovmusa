@@ -33,7 +33,7 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:musaxlilov29@gmail.com">
+<!--   <a href="mailto:musaxlilov29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/musa-khalilov-429057296" target="_blank">
@@ -41,7 +41,10 @@
   </a>
   <a href="https://www.instagram.com/musaxlilovv" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a> -->
+
+  <a href="https://linkedin.com/in/khalilovmusa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalilovmusa" height="30" width="40" /></a>
+<a href="https://instagram.com/musaxelilovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musaxelilovv" height="30" width="40" /></a>
 
  <!-- <a href="mailto:musaxlilov29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -65,6 +68,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,github,figma,git,bash,latex,netlify,stackoverflow" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,webpack,mysql,npm,gitlab,powershell,vite,postman" /> 
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </div>
 
 <br/>
