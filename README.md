@@ -19,6 +19,7 @@
 
  ⚡ Fun fact Your brain is constantly eating itself.
  </div>
+ 
     ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/690485043868598293?simple=true)
     ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/690485043868598293)
     ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/690485043868598293)
