@@ -18,15 +18,16 @@
  🌱 I’m currently learning React native
 
  ⚡ Fun fact Your brain is constantly eating itself.
-
- </div>
- 
-<div>
-    ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/690485043868598293?simple=true)
+ ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/690485043868598293?simple=true)
     ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/690485043868598293)
     ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/690485043868598293)
     [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/690485043868598293)]                
     (https://dev.discordprofiles.me/openspotify/690485043868598293)
+
+ </div>
+ 
+<div>
+    
 </div>
  
 <div align="center"> 
