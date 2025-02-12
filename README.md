@@ -27,11 +27,6 @@
 
  </div>
  
-<div align="center">
-    <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/software-development-animation-download-in-lottie-json-gif-static-svg-file-formats--web-app-programming-bug-error-issue-isometric-concept-pack-business-animations-3008982.mp4" width="300px">
-
-</div>
- 
 <div align="center"> 
 <!--   <a href="mailto:musaxlilov29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
