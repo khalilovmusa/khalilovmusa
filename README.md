@@ -24,12 +24,11 @@
     ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/690485043868598293)
     ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/690485043868598293)
     [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/690485043868598293)]                
-    (https://dev.discordprofiles.me/openspotify/690485043868598293)
 
  </div>
  
 <div align="center">
-    <img src="[GIF_URL](https://cdnl.iconscout.com/lottie/premium/preview-watermark/software-development-animation-download-in-lottie-json-gif-static-svg-file-formats--web-app-programming-bug-error-issue-isometric-concept-pack-business-animations-3008982.mp4)" width="300px">
+    <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/software-development-animation-download-in-lottie-json-gif-static-svg-file-formats--web-app-programming-bug-error-issue-isometric-concept-pack-business-animations-3008982.mp4" width="300px">
 
 </div>
  
