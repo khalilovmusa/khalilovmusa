@@ -18,6 +18,11 @@
  🌱 I’m currently learning React native
 
  ⚡ Fun fact Your brain is constantly eating itself.
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/690485043868598293?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/690485043868598293)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/690485043868598293)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/690485043868598293)](https://dev.discordprofiles.me/openspotify/690485043868598293)
+
 
  </div>
  
@@ -52,7 +57,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,github,figma,git,bash,latex" /><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,github,figma,git,bash,latex,netlify,stackoverflow" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,webpack,mysql,npm,gitlab,powershell,vite,postman" /> 
 </div>
 
