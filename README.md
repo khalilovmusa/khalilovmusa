@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning React native
 
- ⚡ Fun fact Your brain is constantly eating itself.
+ ⚡ 5 hours of debugging can save you 5 minutes of reading documentation!
 
  
  ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/690485043868598293?simple=true)
