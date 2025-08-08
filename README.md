@@ -24,12 +24,8 @@
     ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/690485043868598293)
     ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/690485043868598293)
     [![spotify](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/690485043868598293)](https://open.spotify.com/user/31gyprfcfiopcek4vxnbspgvcdjq)
-]                
-## 🎧 Now Playing on Spotify
+]
 
-[![Spotify Badge](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/690485043868598293)](https://open.spotify.com/user/31gyprfcfiopcek4vxnbspgvcdjq)
- </div>
- 
 <div align="center"> 
 <!--   <a href="mailto:musaxlilov29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
