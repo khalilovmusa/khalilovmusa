@@ -40,9 +40,6 @@
   <a href="https://linkedin.com/in/khalilovmusa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalilovmusa" height="30" width="40" /></a>
 <a href="https://instagram.com/musaxelilovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musaxelilovv" height="30" width="40" /></a>
 
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> sqlite, safari, google-chrome are other good icon options 
-  </a> -->
 </div>
 
  <hr/>
@@ -50,10 +47,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,github,figma,git,bash,latex,netlify,stackoverflow,windows,threejs" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,webpack,mysql,npm,gitlab,powershell,vite,postman" /> 
+    <img src="https://skills.syvixor.com/api/icons
+        i=react,redux,bootstrap,html,css,vscode,github,figma,git,bash,latex,netlify,stackoverflow,windows,threejs,javascript,typescript,nodejs,express,webpack,mysql,npm,gitlab,powershell,vite,postman" />
+<!--     <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,github,figma,git,bash,latex,netlify,stackoverflow,windows,threejs," /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,webpack,mysql,npm,gitlab,powershell,vite,postman" />  -->
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<!--         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> -->
 </div>
 
 <br/>
