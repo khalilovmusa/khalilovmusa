@@ -47,7 +47,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skills.syvixor.com/api/icons?i=react,redux,bootstrap,html,css,vscode,github,figma,git,bash,latex,netlify,stackoverflow,windows,threejs,javascript,typescript,nodejs,express,webpack,mysql,npm,gitlab,powershell,vite,postman" />
+    <img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,bash,powershell,latex,react,reactnative,redux,bootstrap,nodejs,express,threejs,webpack,vite,vscode,github,gitlab,git,netlify,postman,stackoverflow,npm,yarn,figma,windows" />
+<!--     <img src="https://skills.syvixor.com/api/icons?i=react,reactnative,redux,bootstrap,html,css,vscode,github,figma,git,bash,latex,netlify,stackoverflow,windows,threejs,javascript,typescript,nodejs,express,webpack,mysql,npm,gitlab,powershell,vite,postman" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,github,figma,git,bash,latex,netlify,stackoverflow,windows,threejs," /><br>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,webpack,mysql,npm,gitlab,powershell,vite,postman" />  -->
 <!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> -->
