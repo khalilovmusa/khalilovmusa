@@ -19,13 +19,6 @@
 
  ⚡ 5 hours of debugging can save you 5 minutes of reading documentation!
 
- 
- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/690485043868598293?simple=true)
-    ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/690485043868598293)
-    ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/690485043868598293)
-    [![spotify](https://nocache.advaith.workers.dev/?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/690485043868598293)](https://open.spotify.com/user/31gyprfcfiopcek4vxnbspgvcdjq)
-]
-
 <div align="center"> 
 <!--   <a href="mailto:musaxlilov29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
