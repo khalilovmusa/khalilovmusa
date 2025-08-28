@@ -41,10 +41,6 @@
 <br/>
 <div align="center">
     <img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,bash,powershell,latex,react,reactnative,redux,bootstrap,nodejs,express,threejs,webpack,vite,vscode,github,gitlab,git,netlify,postman,stackoverflow,npm,yarn,figma,windows" />
-<!--     <img src="https://skills.syvixor.com/api/icons?i=react,reactnative,redux,bootstrap,html,css,vscode,github,figma,git,bash,latex,netlify,stackoverflow,windows,threejs,javascript,typescript,nodejs,express,webpack,mysql,npm,gitlab,powershell,vite,postman" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,github,figma,git,bash,latex,netlify,stackoverflow,windows,threejs," /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,webpack,mysql,npm,gitlab,powershell,vite,postman" />  -->
-<!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> -->
 </div>
 
 <br/>
@@ -53,6 +49,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@khalilovmusa/5dd9b7fc-5a89-4b14-a708-a00a3cf9196f.png" /></a>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/khalilovmusa/khalilovmusa/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
@@ -63,15 +60,12 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=khalilovmusa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilovmusa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalilovmusa&show_icons=true&bg_color=00000000">
 </div>
-<br/><br/>
-<hr/>
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=khalilovmusa&theme=monokai">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalilovmusa&show_icons=true&bg_color=00000000">
-
-<div style="text-align: center;">
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@khalilovmusa/7879c04e-8de7-4f39-b259-26d590e06757.png" /></a>
+<br/>
+<h2 align="center">🧠 Languages Used In Last 30 Days 🧠</h2>
+<div style="text-align: center">
+    <div href="https://wakatime.com"><img src="https://wakatime.com/share/@khalilovmusa/7879c04e-8de7-4f39-b259-26d590e06757.png" /></div>
 </div>
-<hr/>
 
 <br/>
