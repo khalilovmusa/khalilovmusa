@@ -69,7 +69,8 @@
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=khalilovmusa&theme=monokai">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalilovmusa&show_icons=true&bg_color=00000000">
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <hr/>
 
 <br/>
