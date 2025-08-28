@@ -69,17 +69,9 @@
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=khalilovmusa&theme=monokai">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalilovmusa&show_icons=true&bg_color=00000000">
 
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   5 hrs 27 mins   ███████████░░░░░░░░░░░░░░   44.51 %
-TypeScript   5 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   41.03 %
-CSS          1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-```
-
-<!--END_SECTION:waka-->
+<div style="text-align: center;">
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@khalilovmusa/7879c04e-8de7-4f39-b259-26d590e06757.png" /></a>
+</div>
 <hr/>
 
 <br/>
