@@ -14,12 +14,12 @@
 
 <div align="center">
  
- 
  🌱 I’m currently learning React native
 
  ⚡ 5 hours of debugging can save you 5 minutes of reading documentation!
 
 <div align="center"> 
+     <h2 align="center">🤝 Let's Link Up 🤝</h2>
 <!--   <a href="mailto:musaxlilov29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
