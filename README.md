@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning React native
 
- ⚡ 5 hours of debugging can save you 5 minutes of reading documentation!
+ ⚡ 5 hours of debugging can save you 5 minutes of reading documentation :)
 
 <div align="center"> 
      <h2 align="center">🤝 Let's Link Up 🤝</h2>
