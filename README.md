@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript,typescript,bash,gitbash,powershell,latex,react,reactnative,nextjs,redux,bootstrap,nodejs,express,threejs,webpack,vite,vscode,github,gitlab,git,aws,netlify,postman,stackoverflow,npm,yarn,figma,windows,ubuntu,linux" />
+    <img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript,typescript,bash,gitbash,powershell,latex,react,reactnative,nextjs,redux,bootstrap,nodejs,express,threejs,webpack,vite,vscode,github,gitlab,git,aws,netlify,firebase,postman,stackoverflow,npm,yarn,figma,windows,ubuntu,linux" />
 </div>
 
 <br/>
